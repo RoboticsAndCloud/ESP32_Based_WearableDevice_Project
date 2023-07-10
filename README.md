@@ -2,6 +2,7 @@
 ## Desciption
 - We use ESP32-Cam to design a fall detection system, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
 - We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
+- We mainly use C language to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on [Linear Interpolation Algorithm.
   
 ## ESP 32 Device
 - If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
@@ -32,14 +33,14 @@ Here is the BibTeX citation code:
 ## Esp Circuit
 - ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
 
-## Extra links
+## Extra Links
 
-### ESP32 products
+### ESP32 Products
 - [ESP32](https://www.espressif.com/en/products/socs/esp32)
 - [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/release-v4.0/get-started/index.html)
 - [ESP32-CAM Tutorial](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 - [ESP GitHub](https://github.com/espressif)
 
-### Image Resize
+### Image Resize Method
 - [Linear Interpolation Algorithm ](https://www.sciencedirect.com/topics/engineering/bilinear-interpolation)
 - [C Programming - Reading and writing images with the stb_image libraries](https://solarianprogrammer.com/2019/06/10/c-programming-reading-writing-images-stb_image-libraries/)
