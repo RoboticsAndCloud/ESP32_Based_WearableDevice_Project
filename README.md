@@ -31,7 +31,7 @@ Here is the BibTeX citation code:
 }
 ```
 
-## Esp Circuit
+## ESP based Wearable Device Circuit
 - ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
 
 ## Extra Links
