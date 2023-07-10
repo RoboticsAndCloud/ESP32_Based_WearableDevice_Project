@@ -1,13 +1,14 @@
 # ESP32_Based_WearableDevice
 ## Desciption
-- We use ESP32-Cam to design a fall detection system, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
+- We use ESP32-Cam to design a **fall detection system**, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
 - We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
-- We mainly use C language to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on [Linear Interpolation Algorithm.
+- We mainly use **C language** to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on [Linear Interpolation Algorithm.
+- You can read the paper for more details.
   
 ## ESP 32 Device
 - If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
 - You can read the **app_main.c** for the main function of device
-- If you want to resize your image, you can read resize_image_processing() function in the file app_tcp_wifi.c, linear interpolation algorithm is adopted for resizing the images.
+- If you want to resize your image, you can read **resize_image_processing()** function in the file app_tcp_wifi.c, linear interpolation algorithm is adopted for resizing the images.
 
 ## Backend
 - We provide two type of servers to communicate with the esp client, WiFi-based(esp_server_wifi.c) and Bluetooth-based(esp_server_bluetooth.c)
