@@ -1,7 +1,7 @@
 # ESP32_Based_WearableDevice
 ## ESP 32 Device
--If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
--You can read the app_main.c for the main function of device
+- If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
+- You can read the app_main.c for the main function of device
 
 
 ## Citation
