@@ -22,3 +22,7 @@ Here is the BibTeX citation code:
 - [ESP32](https://www.espressif.com/en/products/socs/esp32)
 - [ESP32-CAM Tutorial](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 - [ESP GitHub](https://github.com/espressif)
+
+### Image Resize
+- [Linear Interpolation Algorithm ](https://www.sciencedirect.com/topics/engineering/bilinear-interpolation)
+- [C Programming - Reading and writing images with the stb_image libraries](https://solarianprogrammer.com/2019/06/10/c-programming-reading-writing-images-stb_image-libraries/)
