@@ -1,7 +1,7 @@
 # ESP32_Based_WearableDevice
-##
-
-- ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
+## Desciption
+- We use ESP32-Cam to design a fall detection system, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
+- We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
   
 ## ESP 32 Device
 - If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
@@ -28,6 +28,9 @@ Here is the BibTeX citation code:
   organization={IEEE}
 }
 ```
+
+## Esp Circuit
+- ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
 
 ## Extra links
 
