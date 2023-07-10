@@ -1,4 +1,4 @@
-# ESP32_Based_WearableDevice
+# ESP32_Based_WearableDevice For Fall Detection System
 ## Desciption
 - We use ESP32-Cam to design a **fall detection system**, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
 - We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
