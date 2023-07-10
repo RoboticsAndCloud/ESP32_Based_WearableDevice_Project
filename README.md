@@ -3,7 +3,7 @@
 - We use ESP32-Cam to design a **fall detection system**, including two steps: motion data based preliminary detection on the wearable device and a video-based final confirmation on the companion robot
 - We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
 - We mainly use **C language** to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on [Linear Interpolation Algorithm.
-- You can read the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588164) for more details 
+- You can read the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561323) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588164)  for more details 
   
 ## ESP 32 Device
 - If want to deploy the code on your ESP 32 Device by using the code, please get familiar with ESP32 and the Development environment. You can follow the links below in ESP32 Product section.
@@ -20,6 +20,17 @@
 Copyright (c) 2023 Fei Liang. To cite my code, please cite my paper:
 
 Here is the BibTeX citation code: 
+```
+@inproceedings{liang2021collaborative,
+  title={Collaborative fall detection using a wearable device and a companion robot},
+  author={Liang, Fei and Hernandez, Ricardo and Lu, Jiaxing and Ong, Brandon and Moore, Matthew Jackson and Sheng, Weihua and Zhang, Senlin},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={3684--3690},
+  year={2021},
+  organization={IEEE}
+}
+```
+
 ```
 @inproceedings{liang2021energy,
   title={Energy Consumption in a Collaborative Activity Monitoring System using a Companion Robot and a Wearable Device},
