@@ -2,7 +2,7 @@
 ## Desciption
 - We use ESP32-Cam to design a **fall detection system**, including two steps: motion data based(Threshold based) preliminary detection on the wearable device and a video-based (CNN+RNN based)final confirmation on the companion robot
 - We study the energy consumption problem when transmiting data based on WiFi and Bluetooth protocols and the size of images.
-- We mainly use **C language** to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on [Linear Interpolation Algorithm.
+- We mainly use **C language** to implement the project, including the Client/Server commnication based on Socket, the image resizing method based on Linear Interpolation Algorithm.
 - You can read the [paper1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561323) [paper2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588164)  for more details 
   
 ## ESP 32 Device
