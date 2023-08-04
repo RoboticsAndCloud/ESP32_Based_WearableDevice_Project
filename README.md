@@ -45,11 +45,9 @@ Here is the BibTeX citation code:
 ## System and ESP based Wearable Device Figures
 - ![System Overview](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice_Project/blob/main/ESP32_Device_Code/WearableDeviceSoftArchFood.png)
 - ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
-
 ## Video based Fall Recognition
 - [video classification](https://github.com/RoboticsAndCloud/video-classification)
 
-- 
 ## Extra Links
 
 ### ESP32 Products
