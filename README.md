@@ -47,7 +47,9 @@ Here is the BibTeX citation code:
 - ![Circuit](https://github.com/RoboticsAndCloud/ESP32_Based_WearableDevice/blob/main/ESP32_Device_Code/esp_circuit.png)
 
 ## Video based Fall Recognition
-- ![video classfication] (https://github.com/RoboticsAndCloud/video-classification)
+- [video classification](https://github.com/RoboticsAndCloud/video-classification)
+
+- 
 ## Extra Links
 
 ### ESP32 Products
